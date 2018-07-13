@@ -1,4 +1,7 @@
 dependencies:
+- name: bdd-test-angular-io-quickstart-1531472870
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-test-node-http-1531472870
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
